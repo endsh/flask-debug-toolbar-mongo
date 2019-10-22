@@ -43,7 +43,7 @@ setup(
     zip_safe=False,
     platforms='any',
     install_requires=[
-        'Flask==0.10.1',
+        'Flask==1.0',
         'pymongo==2.7.1',
         'Pygments==2.2.0',
     ],
