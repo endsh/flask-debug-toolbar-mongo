@@ -45,6 +45,6 @@ setup(
     install_requires=[
         'Flask==0.10.1',
         'pymongo==2.7.1',
-        'Pygments==2.2.0',
+        'Pygments==2.7.4',
     ],
 )
